@@ -8,7 +8,7 @@ Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/mudsbuilder/%{name}-%{version}.tar.gz
 # Source0-md5:	c20ae4fadd87a66dda2741db36ed79fe
 BuildRequires:	libgnomeui-devel
-Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
+BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
 Gereacreator - tool for area drawing and code generation. Code is
