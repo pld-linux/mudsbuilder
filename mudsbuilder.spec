@@ -5,7 +5,7 @@ Version:	0.4.4
 Release:	1
 License:	GPL v2
 Group:		Development/Tools
-Source0:	http://dl.sourceforge.net/mudsbuilder/%{name}/%{name}-%{version}.tar.gz
+Source0:	http://dl.sourceforge.net/mudsbuilder/%{name}-%{version}.tar.gz
 # Source0-md5:	8298b982973413bc15e07e6943fa3510
 BuildRequires:	libgnomeui-devel
 Buildroot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
