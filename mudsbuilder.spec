@@ -17,7 +17,7 @@ output for virtually any mudlib.
 
 %description -l pl
 Gerecreator jest narzêdziem do rysowania oraz tworzenia kodu lokacji.
-Dzieki zastosowaniu szablonów kod wynikowy mo¿na w ³atwy sposób
+Dziêki zastosowaniu szablonów kod wynikowy mo¿na w ³atwy sposób
 przystosowaæ do u¿ywanego przez nas Mudliba.
 
 %prep
