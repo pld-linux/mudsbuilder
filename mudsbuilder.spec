@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		Development/Tools
 Source0:	http://dl.sourceforge.net/mudsbuilder/%{name}-%{version}.tar.gz
 # Source0-md5:	07f2d63892fe6d7351fbeb4d5aaf55ee
-#BuildRequires:	libgnomeui-devel
+BuildRequires:	libgnomeui-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
