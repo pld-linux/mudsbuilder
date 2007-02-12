@@ -1,5 +1,5 @@
 Summary:	mudsbuilder - tool for area drawing and code generation
-Summary(pl):	mudsbuilder - narzêdzie to rysowania i generowania kodu lokacji
+Summary(pl.UTF-8):   mudsbuilder - narzÄ™dzie to rysowania i generowania kodu lokacji
 Name:		mudsbuilder
 Version:	0.5.4
 Release:	1
@@ -16,10 +16,10 @@ Gereacreator - tool for area drawing and code generation. Code is
 generated based on a Mudlib template, which makes it easy to adjust
 output for virtually any mudlib.
 
-%description -l pl
-Gerecreator jest narzêdziem do rysowania oraz tworzenia kodu lokacji.
-Dziêki zastosowaniu szablonów kod wynikowy mo¿na w ³atwy sposób
-przystosowaæ do u¿ywanego przez nas Mudliba.
+%description -l pl.UTF-8
+Gerecreator jest narzÄ™dziem do rysowania oraz tworzenia kodu lokacji.
+DziÄ™ki zastosowaniu szablonÃ³w kod wynikowy moÅ¼na w Å‚atwy sposÃ³b
+przystosowaÄ‡ do uÅ¼ywanego przez nas Mudliba.
 
 %prep
 %setup -q -n %{name}-%{version}/gereacreator
