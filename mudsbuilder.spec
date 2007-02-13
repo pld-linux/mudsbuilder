@@ -1,5 +1,5 @@
 Summary:	mudsbuilder - tool for area drawing and code generation
-Summary(pl.UTF-8):   mudsbuilder - narzędzie to rysowania i generowania kodu lokacji
+Summary(pl.UTF-8):	mudsbuilder - narzędzie to rysowania i generowania kodu lokacji
 Name:		mudsbuilder
 Version:	0.5.4
 Release:	1
